@@ -31,7 +31,6 @@
 | Раздел | Описание |
 |--------|----------|
 | [Маршруты](https://true-while.github.io/lipari/routes/) | Варианты недельных маршрутов по архипелагу |
-| [Регаты](https://true-while.github.io/lipari/races/) | 15 регатных маршрутов по 5 островам |
 | [Ветра](https://true-while.github.io/lipari/winds/) | Сезонный ветровой режим и рекомендации |
 
 ---

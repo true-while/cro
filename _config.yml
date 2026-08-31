@@ -3,11 +3,11 @@ minimal_mistakes_skin: "air"
 
 # Site Settings
 locale: "ru"
-title: "Эолийские острова"
+title: "Далматинские острова"
 subtitle: "путеводитель\u00A0\u00A0 для\u00A0\u00A0 яхтсменов"
-description: "Путеводитель по Эолийским островам — марины, якорные стоянки, достопримечательности, регаты"
+description: "Путеводитель по Далматинским островам — марины, якорные стоянки, достопримечательности, регаты"
 url: "https://true-while.github.io"
-baseurl: "/lipari"
+baseurl: "/cro"
 
 # Build settings
 encoding: "utf-8"
