@@ -1,0 +1,26 @@
+main:
+  - title: "Главная"
+    url: /
+  - title: "Portorosa"
+    url: /portorosa/
+  - title: "Milazzo"
+    url: /milazzo/
+  - title: "Capo d'Orlando"
+    url: /capo-d-orlando/
+  - title: "Vulcano"
+    url: /vulcano/
+  - title: "Lipari"
+    url: /lipari/
+  - title: "Salina"
+    url: /salina/
+  - title: "Panarea"
+    url: /panarea/
+  - title: "Stromboli"
+    url: /stromboli/
+  - title: "Filicudi"
+    url: /filicudi/
+  - title: "Alicudi"
+    url: /alicudi/
+  - title: "Palermo"
+    url: /palermo/
+

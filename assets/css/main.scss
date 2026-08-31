@@ -1,0 +1,47 @@
+---
+---
+
+@import "minimal-mistakes";
+
+/* Hide the masthead top navigation bar on mobile only */
+@media (max-width: 768px) {
+  #main > div > nav {
+    display: none !important;
+  }
+}
+
+/* Add spacing between consecutive images */
+.page__content img {
+  margin-bottom: 1.5em;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/* Justify text in page content */
+.page__content p,
+.page__content li {
+  text-align: justify;
+}
+
+/* Left-align TOC sidebar */
+nav.toc {
+  text-align: left;
+}
+
+/* Custom footer styling */
+.page__footer-copyright {
+  text-align: center;
+  font-size: 0.8em;
+  padding: 0.5em 0;
+
+  a {
+    color: #6c757d;
+    text-decoration: none;
+
+    &:hover {
+      color: #494e52;
+      text-decoration: underline;
+    }
+  }
+}
