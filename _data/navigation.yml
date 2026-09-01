@@ -1,7 +1,8 @@
 main:
   - title: "Главная"
     url: /
-  - title: "Split"
+  - title: "Сплит"
     url: /split/
-  
+  - title: "Маслиница"
+    url: /maslinica/
 
