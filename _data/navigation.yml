@@ -7,3 +7,17 @@ main:
     url: /maslinica/
   - title: "Милна"
     url: /milna/
+  - title: "Трогир"
+    url: /trogir/
+  - title: "Шибеник"
+    url: /sibenik/
+  - title: "М.Дервник"
+    url: /mali-drvenik/
+  - title: "Рогожница"
+    url: /rogoznica/
+  - title: "Трибуня"
+    url: /tribunj/
+  - title: "Скрадин"
+    url: /skradin/
+  - title: "Оштрица"
+    url: /ostrica/
