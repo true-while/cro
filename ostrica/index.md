@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Оштрица"
+title: "Ostrica"
 header:
   image: /ostrica/title.jpg
 ---
