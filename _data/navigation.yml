@@ -1,23 +1,28 @@
 main:
-  - title: "Главная"
+  - title: "Острова"
     url: /
-  - title: "Сплит"
-    url: /split/
-  - title: "Маслиница"
-    url: /maslinica/
-  - title: "Милна"
-    url: /milna/
-  - title: "Трогир"
-    url: /trogir/
-  - title: "Шибеник"
-    url: /sibenik/
-  - title: "М.Дервник"
-    url: /mali-drvenik/
-  - title: "Рогожница"
-    url: /rogoznica/
-  - title: "Трибуня"
-    url: /tribunj/
-  - title: "Скрадин"
-    url: /skradin/
-  - title: "Оштрица"
-    url: /ostrica/
+    children:
+      - title: "Сплит"
+        url: /split/
+      - title: "Маслиница"
+        url: /maslinica/
+      - title: "Милна"
+        url: /milna/
+      - title: "Трогир"
+        url: /trogir/
+      - title: "Шибеник"
+        url: /sibenik/
+      - title: "М.Дервник"
+        url: /mali-drvenik/
+      - title: "Рогожница"
+        url: /rogoznica/
+      - title: "Трибуня"
+        url: /tribunj/
+      - title: "Скрадин"
+        url: /skradin/
+      - title: "Оштрица"
+        url: /ostrica/
+  - title: "Маршруты"
+    url: /routes/
+  - title: "Ветра"
+    url: /winds/
