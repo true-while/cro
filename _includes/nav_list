@@ -1,0 +1,33 @@
+{% assign navigation = site.data.navigation[include.nav] %}
+
+<nav class="nav__list">
+  {% if include.title %}
+    <input id="ac-toc" name="accordion-toc" type="checkbox" />
+    <label for="ac-toc">{{ include.title }}</label>
+  {% endif %}
+  <ul class="nav__items">
+    {% for item in navigation %}
+      <li>
+        {% if item.url %}
+          <a href="{{ item.url | relative_url }}"{% if page.url == item.url %} class="active"{% endif %}>
+            <span class="nav__sub-title">{{ item.title }}</span>
+          </a>
+        {% else %}
+          <span class="nav__sub-title">{{ item.title }}</span>
+        {% endif %}
+
+        {% if item.children %}
+          <ul class="nav__sub-items">
+            {% for child in item.children %}
+              <li>
+                <a href="{{ child.url | relative_url }}"{% if page.url == child.url %} class="active"{% endif %}>
+                  {{ child.title }}
+                </a>
+              </li>
+            {% endfor %}
+          </ul>
+        {% endif %}
+      </li>
+    {% endfor %}
+  </ul>
+</nav>
