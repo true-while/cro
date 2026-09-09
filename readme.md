@@ -56,4 +56,4 @@ bundle exec jekyll serve
 
 ## Нашли ошибку?
 
-[Нашли ошибку?](https://forms.office.com/r/Zv1Eu8qmFc?origin=lprLink) — мы исправим!
+[Нашли ошибку?](https://forms.cloud.microsoft/r/Gt2VFvg8d1) — мы исправим!
