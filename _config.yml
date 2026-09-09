@@ -4,7 +4,7 @@ minimal_mistakes_skin: "air"
 # Site Settings
 locale: "ru"
 title: "Далматинские острова"
-subtitle: "путеводитель\u00A0\u00A0 для\u00A0\u00A0 яхтсменов"
+subtitle: "путеводитель для яхтсменов"
 description: "Путеводитель по Далматинским островам — марины, якорные стоянки, достопримечательности, регаты"
 url: "https://true-while.github.io"
 baseurl: "/cro"
