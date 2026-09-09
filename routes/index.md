@@ -5,14 +5,6 @@ header:
   image: /title.jpg
 ---
 
-<div style="text-align: center; margin: 2.5em 0;">
-  <a href="{{ site.baseurl }}/" class="btn btn--info btn--large">Острова</a>
-
-  <a href="{{ site.baseurl }}/routes/" class="btn btn--primary btn--large">Маршруты</a>
-  
-  <a href="{{ site.baseurl }}/winds/" class="btn btn--warning btn--large">Ветра</a>
-</div>
-
 ### На водопады — ~120 NM
 
 Маршрут по живописной центральной Далмации: от Сплита в сторону северных бухт и природных точек, затем выход к северным бергам и возвращение через защищённые стоянки. Хорош для экипажа, который хочет совместить плавание, купание и спокойную навигацию без слишком длинных переходов.

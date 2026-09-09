@@ -1,5 +1,5 @@
 main:
-  - title: "Острова"
+  - title: "Стоянки"
     url: /
     children:
       - title: "Сплит"
