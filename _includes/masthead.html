@@ -1,0 +1,41 @@
+<div class="masthead">
+  <div class="masthead__inner-wrap">
+    <div class="masthead__menu">
+      <nav id="site-nav" class="greedy-nav" aria-label="Primary navigation">
+        {% if site.logo %}
+          <a class="site-logo" href="{{ '/' | relative_url }}">
+            <img src="{{ site.logo | relative_url }}" alt="{{ site.masthead_title | default: site.title }}">
+          </a>
+        {% endif %}
+        <a class="site-title" href="{{ '/' | relative_url }}">
+          {{ site.masthead_title | default: site.title }}
+          {% if site.subtitle %}<span class="site-subtitle">{{ site.subtitle }}</span>{% endif %}
+        </a>
+        
+        {% assign navigation = site.data.navigation.main %}
+        <ul class="visible-links">
+          {% for item in navigation %}
+            <li class="masthead__menu-item">
+              {% if item.children %}
+                <span class="nav-parent">{{ item.title }}</span>
+                <ul class="nav-submenu">
+                  {% for child in item.children %}
+                    <li><a href="{{ child.url | relative_url }}">{{ child.title }}</a></li>
+                  {% endfor %}
+                </ul>
+              {% else %}
+                <a href="{{ item.url | relative_url }}">{{ item.title }}</a>
+              {% endif %}
+            </li>
+          {% endfor %}
+        </ul>
+        
+        <button class="greedy-nav__toggle hidden" type="button">
+          <span class="visually-hidden">Toggle menu</span>
+          <div class="navicon"></div>
+        </button>
+        <ul class="hidden-links hidden"></ul>
+      </nav>
+    </div>
+  </div>
+</div>

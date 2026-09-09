@@ -1,0 +1,16 @@
+{% assign navigation = site.data.navigation[include.nav] %}
+
+{% for item in navigation %}
+  <li class="masthead__menu-item">
+    {% if item.children %}
+      <span class="nav-parent">{{ item.title }}</span>
+      <ul class="nav-submenu">
+        {% for child in item.children %}
+          <li><a href="{{ child.url | relative_url }}">{{ child.title }}</a></li>
+        {% endfor %}
+      </ul>
+    {% else %}
+      <a href="{{ item.url | relative_url }}">{{ item.title }}</a>
+    {% endif %}
+  </li>
+{% endfor %}
