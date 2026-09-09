@@ -12,6 +12,14 @@
 
 /* Masthead dropdown navigation styling */
 nav.greedy-nav {
+  position: relative;
+  z-index: 30;
+  overflow: visible;
+
+  .visible-links {
+    overflow: visible;
+  }
+
   .site-subtitle--home {
     font-size: 0.8125em;
   }

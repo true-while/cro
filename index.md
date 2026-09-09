@@ -22,7 +22,7 @@ header:
 
 | Порт | Что смотреть |
 |------|----------|
-| [**Сплит**]({{ site.baseurl }}/split/) | Стартовая точка чартеров <br> [Castello di Milazzo]({{ site.baseurl }}/milazzo/#castello-di-milazzo---замок) — крупнейшая крепость Сицилии <br> [Capo Milazzo]({{ site.baseurl }}/milazzo/#capo-milazzo---мыс) - бассейн богини Венеры<br> [Duomo di Santo Stefano]({{ site.baseurl }}/milazzo/#duomo-di-santo-stefano---собор) — древний собор |
+| [**Сплит**]({{ site.baseurl }}/split/) |  |
 
 ## Острова
 
