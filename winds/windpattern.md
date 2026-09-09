@@ -6,18 +6,8 @@ header:
   image: /title.jpg
 ---
 
-<div style="text-align: center; margin: 2.5em 0;">
-  <a href="{{ site.baseurl }}/" class="btn btn--info btn--large">Острова</a>
-
-  <a href="{{ site.baseurl }}/routes/" class="btn btn--primary btn--large">Маршруты</a>
-  
-  <a href="{{ site.baseurl }}/winds/" class="btn btn--warning btn--large">Ветра</a>
-</div>
 
 ## Ветра
-
-
-
 
 | Название | Направление | Характер |
 | ----- | ---- | ----- |

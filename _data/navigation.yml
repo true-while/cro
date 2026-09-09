@@ -18,6 +18,8 @@ main:
         url: /tribunj/
       - title: "Оштрица"
         url: /ostrica/
+      - title: "Примоштен"
+        url: /primosten/
   - title: "Маршруты"
     url: /routes/
   - title: "Ветра"
