@@ -18,17 +18,13 @@ header:
 
 ---
 
-## Материк
+## Остановки
 
-| Порт | Что смотреть |
+| Локация | Что смотреть |
 |------|----------|
 | [**Сплит**]({{ site.baseurl }}/split/) |  |
+| [**Трибуня**]({{ site.baseurl }}/tribunj/) | |
 
-## Острова
-
-| Остров | Что смотреть |
-|--------|----------|
-| [**Vulcano**]({{ site.baseurl }}/vulcano/) | Живой вулкан, грязи, горячие источники <br> [Gran Cratere]({{ site.baseurl }}/vulcano/#vulcano---вулкан) — восхождение на кратер <br> [Fanghi]({{ site.baseurl }}/vulcano/#fanghi-di-vulcano---грязи) — серные грязевые ванны <br> [Il Cappero]({{ site.baseurl }}/vulcano/#рестораны-и-магазины) - ресторан с ⭐ Michelin |
 
 
 ---
