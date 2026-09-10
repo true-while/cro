@@ -9,14 +9,14 @@ header:
 
 Ниже — маршрут в табличном виде с первого воскресенья. Он рассчитан на 8 дней переходов вдоль далматинского побережья и подходит для спокойного путешествия с ночёвками в живописных точках.
 
-| День недели | Маршрут | Длина | Примечание |
+| Дн. | Маршрут | Длина, NM | Примечание |
 | --- | --- | ---: | --- |
-| Воскресенье | [Сплит]({{ site.baseurl }}/split/) → [Примоштен]({{ site.baseurl }}/primosten/) | ~27 NM | Ночёвка [на буях в Примоштен]({{ site.baseurl }}/primosten/#стоянка-на-буях) |
-| Понедельник | [Примоштен]({{ site.baseurl }}/primosten/) → [Скрадин]({{ site.baseurl }}/skradin/) | ~18 NM | Ночёвка в [Skradin Marina]({{ site.baseurl }}/skradin/#skradin-marina) |
-| Вторник | [Скрадин]({{ site.baseurl }}/skradin/) → [Шибеник]({{ site.baseurl }}/sibenik/) | ~8 NM | Короткий переход к [D-Marin Mandalina]({{ site.baseurl }}/sibenik/#d-marin-mandalina) |
-| Среда | [Шибеник]({{ site.baseurl }}/sibenik/) → [Оштрица]({{ site.baseurl }}/ostrica/) → [Рогожница]({{ site.baseurl }}/rogoznica/) | ~16 NM | Осмотр [сетны]({{ site.baseurl }}/ostrica/#северная-якорная-стоянка) и ночёвка в [Marina Frapa Rogoznica]({{ site.baseurl }}/rogoznica/#marina-frapa-rogoznica) |
-| Четверг |  [Рогожница]({{ site.baseurl }}/rogoznica/) → [Древник]({{ site.baseurl }}/drvenik/) | ~13 NM | Ночёвка в [Голубой логуне]({{ site.baseurl }}/drvenik/#blue-lagoon) или переход на [Маслиница]({{ site.baseurl }}/maslinica/#martinis-marchi-marina) |
-| Пятница | [Древник]({{ site.baseurl }}/drvenik/) → [Маслиница]({{ site.baseurl }}/maslinica/) → [Сплит]({{ site.baseurl }}/split/) | ~17 NM | Завершение маршрута. Заправка на Маслинице или Сплит|
+| Вс | [Сплит]({{ site.baseurl }}/split/) → [Примоштен]({{ site.baseurl }}/primosten/) | ~27 | Ночёвка [на буях в Примоштен]({{ site.baseurl }}/primosten/#стоянка-на-буях) |
+| Пн | [Примоштен]({{ site.baseurl }}/primosten/) → [Скрадин]({{ site.baseurl }}/skradin/) | ~18 | Ночёвка в [Skradin Marina]({{ site.baseurl }}/skradin/#skradin-marina) |
+| Вт | [Скрадин]({{ site.baseurl }}/skradin/) → [Шибеник]({{ site.baseurl }}/sibenik/) | ~8 | Короткий переход к [D-Marin Mandalina]({{ site.baseurl }}/sibenik/#d-marin-mandalina) |
+| Ср | [Шибеник]({{ site.baseurl }}/sibenik/) → [Оштрица]({{ site.baseurl }}/ostrica/) → [Рогожница]({{ site.baseurl }}/rogoznica/) | ~16 | Осмотр [сетны]({{ site.baseurl }}/ostrica/#северная-якорная-стоянка) и ночёвка в [Marina Frapa Rogoznica]({{ site.baseurl }}/rogoznica/#marina-frapa-rogoznica) |
+| Чт | [Рогожница]({{ site.baseurl }}/rogoznica/) → [Древник]({{ site.baseurl }}/drvenik/) | ~13 | Ночёвка в [Голубой логуне]({{ site.baseurl }}/drvenik/#blue-lagoon) или переход на [Маслиница]({{ site.baseurl }}/maslinica/#martinis-marchi-marina) |
+| Пт | [Древник]({{ site.baseurl }}/drvenik/) → [Маслиница]({{ site.baseurl }}/maslinica/) → [Сплит]({{ site.baseurl }}/split/) | ~17 | Завершение маршрута. Заправка на Маслинице или Сплит |
 
 ![маршрут](waterfall1.png)
 
